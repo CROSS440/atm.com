@@ -1,0 +1,44 @@
+/* Add all your styles here */
+h1 {
+     color : white ;
+     font-family :  "Times new roman" , Times , sans-serif;
+     text-align : center ;
+     padding-top : 15px ;
+     font-size : 50px ;
+     background-color : hotpink ;
+     border-radius : 40px ;
+}
+
+body { 
+      background-color : #6666ff ;
+
+}
+
+p {
+   color : white ;
+   font-size : 20px ;
+   
+}
+
+#id1 { 
+      font-family : "Times new roman" , Times , sans-serif;
+      
+
+}
+
+#id3 {
+      
+
+ 
+}
+
+a {
+   background-image : linear-gradient(to right ,  #ffcc00 ,  white) ;
+   padding : 13px 42px ;
+   border-radius : 50px ;
+   text-decoration : none ;
+   content-align : center ;
+   color : black ;
+   font-size : 30px ; 
+   margin : 50px ;
+}
